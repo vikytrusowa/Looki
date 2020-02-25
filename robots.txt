@@ -1,0 +1,8 @@
+User-agent: Yandex
+Disallow: /Looki/
+
+User-agent: GoogleBot
+Disallow: /Looki/
+
+User-agent: *
+Disallow: /Looki/
